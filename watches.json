@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "SmartX1",
+        "price": "$200"
+    },
+    {
+        "id": 2,
+        "name": "FitWatch Pro",
+        "price": "$229"
+    },
+    {
+        "id": 3,
+        "name": "LuxWatch Elegance",
+        "price": "$349"
+    },
+    {
+        "id": 4,
+        "name": "SportPro 3",
+        "price": "$129"
+    },
+    {
+        "id": 5,
+        "name": "HealthTrack S",
+        "price": "$79"
+    }
+]
